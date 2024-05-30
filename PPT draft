@@ -1,0 +1,210 @@
+Slide 1: Title Slide
+
+Title: Internship Project: Data Mapping and Data Validation at NICE Actimize
+Subtitle: Transitioning SQL Server and Oracle Queries to PostgreSQL
+Presented by: [Your Name]
+Date: [Current Date]
+
+Slide 2: Introduction
+
+Title: Introduction
+Content:
+
+	•	Brief introduction of yourself
+	•	Overview of the internship role and objectives
+	•	Importance of data validation in financial services
+	•	Mention the primary task: Updating SQL Server and Oracle queries to PostgreSQL
+
+Slide 3: Project Overview
+
+Title: Project Overview
+Content:
+
+	•	Purpose of the project
+	•	Key objectives
+	•	Ensure data accuracy and integrity
+	•	Streamline data processing
+	•	Enhance query performance and compatibility
+
+Slide 4: Phases of the Project
+
+Title: Phases of the Project
+Content:
+
+	•	Discovery
+	•	Design
+	•	Data Validation
+	•	Testing
+	•	Closure
+
+Slide 5: Discovery Phase
+
+Title: Discovery Phase
+Content:
+
+	1.	Understand Business Requirements
+	•	Conduct interviews with stakeholders to gather requirements.
+	•	Use tools like JIRA or Confluence to document business rules and logic.
+	•	Analyze existing data workflows using process flow diagrams.
+	2.	Analyze Existing SQL Queries
+	•	Review SQL Server and Oracle queries in SQL Server Management Studio (SSMS) and Oracle SQL Developer.
+	•	Identify complex queries and stored procedures.
+	•	Use SQL query analysis tools to understand query structure and dependencies.
+	3.	Identify Data Sources and Structures
+	•	Catalog data sources using a data inventory tool like Talend.
+	•	Document schema structures with tools like ER/Studio or MySQL Workbench.
+	•	Compare data types, indexing, and schema design differences between SQL Server, Oracle, and PostgreSQL.
+	4.	Evaluate Current System Performance
+	•	Use performance monitoring tools like SolarWinds Database Performance Analyzer.
+	•	Identify performance bottlenecks through query execution plans.
+	•	Collect performance metrics to benchmark against PostgreSQL.
+	5.	Determine Compatibility and Constraints
+	•	Research PostgreSQL documentation for compatibility issues.
+	•	Identify features and functions in SQL Server and Oracle that have direct equivalents or require workarounds in PostgreSQL.
+	•	Document known constraints and challenges.
+	6.	Set Up Development Environment
+	•	Install PostgreSQL on development servers.
+	•	Configure access permissions and connectivity.
+	•	Set up version control with Git and collaboration tools like Slack and Trello.
+
+Slide 6: Design Phase
+
+Title: Design Phase
+Content:
+
+	1.	Clarify Project Objectives
+	•	Ensure alignment with stakeholders on project goals.
+	•	Use JIRA to track objectives and progress.
+	2.	Define Project Scope
+	•	Document the scope in Confluence.
+	•	Specify which queries need to be updated: SQL Server to PostgreSQL, Oracle to PostgreSQL.
+	3.	Develop Data Validation Framework
+	•	Create a framework in Confluence outlining standards, protocols, and procedures for data validation.
+	•	Use Talend Data Quality for data profiling and validation rules.
+	4.	Design Data Validation Procedures
+	•	Develop detailed procedures for conducting data validation checks.
+	•	Use SQL scripts and Python for validation checks.
+	•	Include steps, tools, and techniques.
+	5.	Select Tools and Technologies
+	•	Use SQL Server Management Studio (SSMS), Oracle SQL Developer, pgAdmin, and DBeaver for query management.
+	•	Implement validation scripts in Python and SQL.
+	•	Use Jenkins for automated testing and deployment.
+	6.	Define Roles and Responsibilities
+	•	Document roles in Confluence.
+	•	Assign responsibilities using a RACI matrix.
+	7.	Develop a Detailed Project Plan
+	•	Create a project plan in Microsoft Project or Smartsheet.
+	•	Include timelines, milestones, and deliverables.
+
+Slide 7: Data Validation Phase
+
+Title: Data Validation Phase
+Content:
+
+	1.	Update SQL Queries
+	•	Convert SQL Server queries to PostgreSQL using pgAdmin.
+	•	Convert Oracle queries to PostgreSQL using SQL Developer and DBeaver.
+	2.	Ensure Data Accuracy and Consistency
+	•	Run data validation scripts using Python and SQL.
+	•	Use Talend Data Quality to check for data consistency and integrity.
+	3.	Conduct Validation Checks
+	•	Execute validation scripts on development and staging environments.
+	•	Document findings and discrepancies in JIRA.
+
+Slide 8: Testing Phase
+
+Title: Testing Phase
+Content:
+
+	1.	Run Updated SQL Queries
+	•	Test queries in PostgreSQL environment using pgAdmin and DBeaver.
+	•	Verify query results against original SQL Server and Oracle outputs.
+	2.	Conduct Unit Testing
+	•	Use pytest for Python script testing.
+	•	Validate individual queries and stored procedures.
+	3.	Perform Integration Testing
+	•	Test the integration of converted queries with existing systems.
+	•	Use JMeter for performance testing and load testing.
+	4.	Conduct User Acceptance Testing (UAT)
+	•	Work with stakeholders to test and validate queries.
+	•	Collect feedback and make necessary adjustments.
+	5.	Document Test Results and Resolve Issues
+	•	Record test results in JIRA.
+	•	Collaborate with the team to resolve any issues identified during testing.
+
+Slide 9: Closure Phase
+
+Title: Closure Phase
+Content:
+
+	1.	Review and Finalize Deliverables
+	•	Ensure all project deliverables are complete and meet quality standards.
+	•	Conduct a final review meeting with stakeholders.
+	2.	Handover Documentation and Tools
+	•	Transfer documentation and tools to the operations team.
+	•	Use Confluence for documentation and Git for code repositories.
+	3.	Obtain Formal Acceptance
+	•	Get formal sign-off from project stakeholders.
+	4.	Perform Post-Project Evaluation
+	•	Conduct a retrospective to evaluate project performance.
+	•	Document lessons learned and best practices.
+	5.	Release Project Resources
+	•	Reassign project team members to new tasks.
+	•	Release any temporary resources.
+	6.	Archive Project Documents
+	•	Store project documents in a centralized repository.
+	•	Ensure they are easily accessible for future reference.
+	7.	Celebrate Project Success
+	•	Organize a celebration to acknowledge the team’s hard work and success.
+
+Slide 10: Challenges and Solutions
+
+Title: Challenges and Solutions
+Content:
+
+	1.	Compatibility Issues
+	•	Solution: Research PostgreSQL equivalents and implement workarounds.
+	2.	Data Integrity Concerns
+	•	Solution: Use Talend Data Quality and Python scripts for rigorous validation.
+	3.	Performance Optimization
+	•	Solution: Perform extensive performance testing with JMeter.
+
+Slide 11: Lessons Learned
+
+Title: Lessons Learned
+Content:
+
+	1.	Thorough Documentation is Crucial
+	•	Document every step and change for future reference.
+	2.	Effective Communication and Teamwork
+	•	Regular updates and collaboration with stakeholders.
+	3.	Importance of Rigorous Testing
+	•	Comprehensive testing ensures smooth transition and system reliability.
+
+Slide 12: Conclusion
+
+Title: Conclusion
+Content:
+
+	•	Summary of the project outcomes.
+	•	Achievements in transitioning SQL queries to PostgreSQL.
+	•	Appreciation for the learning opportunity.
+	•	Acknowledgements to mentors and team members.
+
+Slide 13: Q&A
+
+Title: Questions and Answers
+Content:
+
+	•	Invite questions from the audience.
+	•	Provide thoughtful and concise answers.
+
+Slide 14: Thank You
+
+Title: Thank You
+Content:
+
+	•	Express gratitude to the audience for their time and attention.
+	•	Provide your contact information for any follow-up questions.
+
+Use these detailed points to create your PowerPoint presentation. Each slide should have bullet points with concise information, and you can add visuals such as diagrams, screenshots, and charts to make the presentation more engaging and informative. Good luck with your presentation!
