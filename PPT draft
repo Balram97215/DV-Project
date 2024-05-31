@@ -208,3 +208,37 @@ Content:
 	•	Provide your contact information for any follow-up questions.
 
 Use these detailed points to create your PowerPoint presentation. Each slide should have bullet points with concise information, and you can add visuals such as diagrams, screenshots, and charts to make the presentation more engaging and informative. Good luck with your presentation!
+
+
+
+
+
+
+
+
+I focused on the AML Data Validation SQL Queries for PostgreSQL project. I gained insights into AML solutions such as SAM, WLF, and CDD, and understood the hierarchy of priorities, types of entities, and data elements. I learned to connect to servers and executing queries. Additionally, I tested and troubleshooted SQL Server queries in the PostgreSQL environment. In my training also included generating Data Requirements Documents (DRDs) using the IA tool, which provided exposure in defining data elements and ensuring data quality.
+
+
+Challenges / Risks / Learnings / Insights
+
+Challenges:
+
+	•	Encountered issues with connecting to StateFarm server due to localhost environment requirements.
+	•	Faced errors in SQL queries due to incorrect database schema.
+
+Risks:
+
+	•	Potential delays in project timelines due to connection and query errors.
+
+
+Learnings:
+
+	•	Gained understanding of DRD structure and AML solutions (SAM, WLF, CDD).
+	•	Enhanced SQL skills, including installation, setup, and query execution in SQL Server and PostgreSQL.
+	•	Learned to identify and resolve SQL query errors.
+	•	Acquired knowledge of AML, fraud management, and authentication solutions.
+
+Insights:
+	•	Understood the need for thorough training on tools and methodologies for DRD generation.
+	•	Realized the critical role of data validation processes in ensuring data quality and compliance.
+	•	Noted the value of collaboration and peer support in overcoming technical challenges.
