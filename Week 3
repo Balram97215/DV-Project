@@ -10,3 +10,76 @@ I completed the first draft of my project presentation. This task involved learn
 4. Cloud Access and IT Support:
 I obtained access to the cloud, which is essential for our project's data management and analysis tasks. Initially, I faced issues with installing the necessary software and logging in. With the support of the IT team, these issues were resolved, allowing me to successfully access the cloud environment. This experience underscored the importance of technical support and troubleshooting in project execution.
 
+
+
+Discover Phase
+
+As an intern with a background in mechanical engineering and currently pursuing a master’s in business Analytics, my Discover Phase involved understanding various aspects of the project and the corporate environment at NICE Actimize. Here are the key points I focused on during this phase.
+
+I learned that Professional Services team partners with clients to design, implement and optimize their financial crime and compliance solutions, this includes the entire project lifecycle, provide insights on best practices, regulatory challenges and technological solutions. The team also focuses on conducting training programs to empower clients with the knowledge and skills to effectively utilize NICE ACTIMIZE products & solutions.
+
+Gained proficiency in utilizing communication tools such as MS Outlook, MS Teams, and SharePoint to enhance collaborative workflows.
+
+Attended certification programs like product portfolio and corporate security compliance, which helped me understand all the products and the importance of maintaining stringent security standards within an organization.
+
+SAM Monitors and detects suspicious activities in financial transactions.
+It Helps in identifying potential money laundering activities and fraud by analyzing transaction patterns and flagging anomalies for further investigation.
+
+WLF Screens customer data against global watch lists, including sanctions and politically exposed persons (PEPs).
+Ensures compliance with international regulations by preventing financial transactions with high-risk individuals and entities, thereby mitigating the risk of financial crimes.
+
+CDD Conducts thorough background checks and risk assessments on new and existing customers.
+Ensures the integrity of customer information and assesses the risk level associated with each customer, aiding in the identification and prevention of money laundering and other financial crimes.
+
+I focused on understanding my internship project to establish clear objectives and enhance my SQL skills.
+
+
+Design
+In this phase of the project my key focus was to understand the scope of the project – “__________________”
+
+
+Update queries
+
+The first step in the process was to thoroughly analyze the existing SQL queries from both SQL Server and Oracle databases. This involved understanding the logic, structure, and functionality of each query. By doing so, I was able to identify the key components and any potential complexities that needed to be addressed during the conversion to PostgreSQL.
+Once I had a clear understanding of the original queries, I began the task of rewriting them in PostgreSQL syntax. 
+Throughout the process, it was essential to maintain documentation of all changes made to the queries. 
+
+Testing
+The first step in the testing phase was to execute the converted SQL Server and Oracle queries in the PostgreSQL environment. Using tools like pgAdmin. I ran each query to verify that it functioned as expected and produced the correct results. This step was crucial to ensure that the queries were correctly rewritten and integrated into the PostgreSQL system."
+
+
+
+During execution, I identified several errors in the query outputs. These errors ranged from syntax issues to incorrect data retrieval. Diagnosing the root causes involved a detailed analysis of the error messages. This process helped me understand the nuances of PostgreSQL compared to SQL Server and Oracle.
+
+To effectively resolve the identified issues, I collaborated closely with my mentors. This teamwork was essential in sharing knowledge and getting different perspectives on the problems. With their guidance, I was able to apply fixes and optimize the queries. This collaborative approach not only helped in resolving technical challenges but also enhanced my learning and problem-solving skills.
+
+Project Closure
+
+The first step in the project closure phase was to thoroughly review all the project deliverables. This included ensuring that all the updated SQL queries and related documentation met the predefined quality standards and project requirements. This review process was essential to confirm that every aspect of the project was complete and accurate.
+
+I compiled a comprehensive final report that summarized the entire project, including all activities, outcomes, and key findings. This report provided a detailed overview of the project's scope, the processes followed, and the results achieved. It highlighted the transition of queries from SQL Server and Oracle to PostgreSQL.
+
+Challenges Faced
+
+One of the initial challenges I encountered was understanding the corporate culture at NICE Actimize. Transitioning from an academic environment to a corporate setting required adapting to new workflows, communication styles, and professional expectations. Additionally, I faced technical issues with accessing the cloud environment, which was crucial for our data validation tasks. These issues were resolved with the support of the IT team, but they highlighted the importance of technical readiness and adaptability.
+
+Another challenge was finding time to discuss project details with mentors and learning what specific questions to ask. Given their busy schedules, it was essential to make the most of the time I had by preparing focused questions and topics for discussion. This helped in gaining clearer insights and directions for the project."
+
+I initially found it challenging to understand domain-specific documents like Data Requirements Documents (DRD) and Data Validation Queries for AML. These documents contain complex financial and technical jargon that was new to me. To overcome this, I invested time in self-study, sought guidance from mentors, and utilized online resources to build my domain knowledge."
+
+Another significant challenge was getting familiar with the security compliance requirements. Working in the financial sector, adherence to strict security protocols and compliance standards is mandatory. This required me to quickly learn and adapt to these protocols to ensure that all data handling and validation processes were compliant."
+
+Finally, understanding the audience for my final project presentation posed a challenge. The audience comprised stakeholders with varying levels of technical knowledge and interest in different aspects of the company. It was crucial to tailor the presentation to address their specific concerns and interests effectively. 
+
+Key Achievements 
+
+One of the major accomplishments of this project was successfully transitioning SQL Server and Oracle queries to PostgreSQL. This process involved meticulous attention to detail. 
+
+
+Throughout this internship, I developed a comprehensive understanding of NICE Actimize's AML solutions. Specifically, I gained insights into Suspicious Activity Monitoring (SAM), which helps in detecting suspicious activities; Watch List Filtering (WLF), which screens customer data against global watch lists; and Customer Due Diligence (CDD), which involves thorough background checks and risk assessments on customers. Each of these components plays a critical role in preventing financial crimes and ensuring compliance with regulatory standards."
+
+I compiled and delivered a detailed final report that summarized all project activities, outcomes, and key findings. 
+
+This project provided significant exposure to different database systems, including SQL Server, Oracle, and PostgreSQL. Handling these varied systems enhanced my technical skills and broadened my understanding of queries.
+
+Talking Point: "A key aspect of this internship was the opportunity to build strong relationships with my mentors and team members. Their guidance and support were invaluable in navigating challenges and enhancing my learning experience. Collaborative efforts with the team not only helped in achieving project goals but also fostered a supportive and productive working environment."
