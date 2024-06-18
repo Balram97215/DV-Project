@@ -126,3 +126,19 @@ In preparation for the review of WLF queries, I set up a meeting with Rozbeen to
 
 Summary
 This week was highly productive, with significant progress made in query validation and presentation preparation. Attending the Actimize Global All Hands meeting provided strategic insights, while collaborative efforts with the team enhanced the quality of my work. The feedback and review sessions were invaluable in refining the final outputs, ensuring readiness for the concluding phase of my internship.
+
+
+Intern Contribution & Project Status
+My Contribution:
+
+"I've created reusable data validation queries. This means that instead of writing new queries every time, we can use these standardized queries, which saves time and ensures consistency."
+"I reduced the overall time taken to create data validation queries from several hours to just 2 hours. This improvement increases efficiency and allows our team to focus on other important tasks."
+"By implementing consistent usage of the same data validation queries across all regions, we ensure that everyone is on the same page. This standardization helps in maintaining data integrity and reduces errors."
+Project Status:
+
+Completed:
+"We've completed the creation and testing of queries for Customer Due Diligence (CDD), Watchlist Filtering (WLF), and Suspicious Activity Monitoring (SAM). These are now functioning well in our PostgreSQL environment."
+Pending:
+"We still need to review all the updated queries to ensure they meet our standards."
+"The project report is being prepared, which will document all our findings and the improvements made."
+"Finally, we need to discuss these updates with different regions to ensure a smooth rollout and address any regional-specific concerns."
