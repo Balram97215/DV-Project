@@ -142,3 +142,18 @@ Pending:
 "We still need to review all the updated queries to ensure they meet our standards."
 "The project report is being prepared, which will document all our findings and the improvements made."
 "Finally, we need to discuss these updates with different regions to ensure a smooth rollout and address any regional-specific concerns."
+
+
+
+
+
+
+Week 17 to 21st
+
+Preparation and Practice for Presentation
+I dedicated a significant amount of time to preparing and practicing for the upcoming presentation on Monday. This involved refining the presentation content, ensuring clarity and coherence, and rehearsing my delivery to effectively communicate the project's goals, findings, and recommendations.
+Query Review and Understanding
+I conducted a final review of all the updated queries for SAM, WLF, and CDD. This process included a deep dive into the logic behind the DV (Data Validation) queries, understanding their purpose, and identifying the desired outputs for specific solutions. I explored how business analysts gather insights from these outputs and prepare detailed reports. This review was crucial in ensuring that the queries are accurate and aligned with project requirements.
+Technical Learning and Query Tuning
+I began updating and tuning queries for the SAM solutions. A significant portion of my time was spent understanding the differences in the "calculating substring" and “Round” function between SQL Server and PostgreSQL. Additionally, I focused on learning about different data types and best practices in PostgreSQL. 
+
