@@ -157,3 +157,66 @@ I conducted a final review of all the updated queries for SAM, WLF, and CDD. Thi
 Technical Learning and Query Tuning
 I began updating and tuning queries for the SAM solutions. A significant portion of my time was spent understanding the differences in the "calculating substring" and “Round” function between SQL Server and PostgreSQL. Additionally, I focused on learning about different data types and best practices in PostgreSQL. 
 
+
+Project Report
+Introduction
+Background:
+The project aimed to update and validate SQL queries to ensure accurate data processing within the PostgreSQL environment. This task was part of a larger effort to improve the efficiency and reliability of AML (Anti-Money Laundering) solutions.
+Objective:
+To analyze, update, and test SQL queries, transitioning them from SQL Server to PostgreSQL, ensuring data accuracy and consistency across different regions.
+2. Project Objective
+Problem Statement:
+Data validation queries were unavailable for the PostgreSQL environment, leading to inefficiencies and potential data inaccuracies.
+Why Fix This Problem:
+Standardizing PostgreSQL SQL query statements will streamline efforts and reduce the time required to create these queries, ensuring consistent and accurate data validation.
+When This Problem Occurs:
+Every time data validation is performed using the PostgreSQL database, the absence of standardized queries causes delays and errors.
+3. Methodology
+Discover Phase:
+Understood the corporate environment and AML solutions at NICE Actimize.
+Attended training sessions on product portfolios and corporate security compliance.
+Design Phase:
+Analyzed existing SQL queries and understood their structure and functionality.
+Studied data validation queries of AML solutions (SAM, WLF, CDD) to understand the differences between SQL Server and PostgreSQL.
+Update Queries Phase:
+Converted SQL server queries to PostgreSQL, ensuring they function correctly and maintaining documentation of changes.
+Test Phase:
+Executed the updated queries in PostgreSQL, identified and resolved errors, and collaborated with mentors to address issues.
+Project Closure:
+Reviewed all project deliverables and documented the tested queries.
+4. Contributions and Achievements
+Created reusable data validation queries, reducing the overall time taken to create queries to just 2 hours.
+Ensured consistent usage of the same data validation queries across all regions.
+Successfully updated queries for CDD, WLF, and SAM.
+Developed a comprehensive understanding of NICE Actimize’s AML solutions and database systems (SQL Server and PostgreSQL).
+5. Challenges Faced
+Time constraints in discussing project details with mentors.
+Difficulty understanding domain-specific documents like Data Requirements Documents (DRD) and Data Validation Queries for AML.
+Encountered syntax errors while updating queries, requiring detailed analysis to resolve.
+6. Next Steps and Recommendations
+Obtain review and sign-off from Lead BAs on the updated queries.
+Share the validated artifacts with teams in the EMEA and APAC regions.
+Prepare and finalize a comprehensive project report.
+Implement the standardized data validation queries in the DV tool to streamline processes and ensure consistency.
+7. Learnings and Experience
+Enhanced technical skills in SQL and PostgreSQL.
+Improved project management abilities, particularly in setting clear objectives and maintaining thorough documentation.
+Developed problem-solving skills and adaptability.
+Gained valuable experience in a collaborative environment, building professional relationships, and understanding AML solutions.
+Suggestions for Improvement
+Detailing Specific Contributions:
+Include specific examples of how the reusable queries have been applied in real-world scenarios within the company.
+Visual Aids:
+Add charts, graphs, or screenshots to illustrate the data validation process and highlight improvements.
+Feedback Section:
+Incorporate feedback from mentors and colleagues to provide a well-rounded perspective on the project’s impact.
+Future Work:
+Outline potential areas for future work or research that can build on the project's success.
+Feel free to adjust the content and structure based on your preferences and any specific guidelines provided by NICE Actimize. This draft should serve as a solid foundation for your report.
+
+
+
+
+
+
+
